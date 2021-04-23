@@ -1,5 +1,5 @@
-### Hi there 👋
-
+### Hi there 👋  I'm Amith Kumar, a student persuing Information Science and Enginerring in Bengaluru.
+### Checkout my repositories to know what im interested in doing 😉, thank you.
 <!--
 **iAmithKumar/iAmithKumar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
